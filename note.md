@@ -10,3 +10,18 @@ npx shadcn-ui@latest init
 button: npx shadcn-ui@latest add button
 
 - variant: type of button
+
+# Folders setup
+
+install next.nav extension
+
+# Authentication with clerk
+
+- https://clerk.com/docs/quickstarts/nextjs
+
+- import clerk in root layout
+- add middleware.ts in root folder
+
+- layout.tsx in (auth folder)
+
+(dashboard folder is protected must be logged in auth folder to access)
