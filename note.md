@@ -32,3 +32,5 @@ install next.nav extension
 - Create some components in dashboard folder
 
   npx shadcn-ui@latest add sheet
+
+# Dynamic Layout
