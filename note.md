@@ -34,3 +34,17 @@ install next.nav extension
   npx shadcn-ui@latest add sheet
 
 # Dynamic Layout
+
+# Course Creation UI
+
+- CoursesPage [dashboard/routes/teacher/courses/page.tsx]
+- create course [dashboard/routes/teacher/create/page.tsx]
+
+- npx shadcn-ui@latest add form
+- npx shadcn-ui@latest add input
+- npm i axios
+
+- create From
+
+- npm i react-hot-toast => create toast-provider in global
+  component => add on app root layout
