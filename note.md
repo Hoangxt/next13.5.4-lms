@@ -25,3 +25,10 @@ install next.nav extension
 - layout.tsx in (auth folder)
 
 (dashboard folder is protected must be logged in auth folder to access)
+
+# layout for dashboard
+
+- layout.tsx in (dashboard folder)
+- Create some components in dashboard folder
+
+  npx shadcn-ui@latest add sheet
